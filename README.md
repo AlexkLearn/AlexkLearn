@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Alex Kimari Kirundi
+# 👋 Hi, I’m Alex Kimari
 ### Welcome to my GitHub profile! 🚀
 
 I’m a Full Stack Development enthusiast diving into Python, Django, JavaScript, React, Node.js, and cloud computing 🌩️.  
