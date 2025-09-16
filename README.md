@@ -4,7 +4,14 @@
 ### Welcome to my GitHub profile! 🚀
 
 I’m a Full Stack Development enthusiast diving into Python, Django, JavaScript, React, Node.js, and cloud computing 🌩️.  
-I love building web apps, exploring new tech, and solving problems one line of code at a time 💻.
+I love building web apps, exploring new tech, and solving problems one line of code at a time 💻.  
+
+--- 
+
+## 🤝 Let’s Collaborate
+
+I’m always open to collaborating on projects where I can gain real-world experience, share ideas, and learn from others.  
+If you’re working on something exciting or looking for fresh talent, feel free to reach out — I’d love to connect!
 
 ---
 
