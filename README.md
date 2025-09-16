@@ -43,17 +43,8 @@ I love building web apps, exploring new tech, and solving problems one line of c
 
 ## Badges  
 
-<div align="center">
-
 <a href="https://www.credly.com/badges/db2820a0-a8cf-4b9e-9dda-10b4a611b447/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>
-</a>  
-
-<a href="https://www.credly.com/badges/8e7c24db-050f-43a5-8bf1-859026ac388a/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS Certified Cloud Practitioner"/>
 </a>
-
-</div>
-
 
 </div>
