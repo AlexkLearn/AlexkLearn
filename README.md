@@ -52,7 +52,7 @@ If you’re working on something exciting or looking for fresh talent, feel free
 
 
 <div align="center">
-"Code is like humor. When you have to explain it, it’s bad." 😎
+"Good code tells a story; I’m just learning to write mine." ✍
 </div>  
 
 ---
