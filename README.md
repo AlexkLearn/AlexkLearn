@@ -52,7 +52,7 @@ If you’re working on something exciting or looking for fresh talent, feel free
 
 
 <div align="center">
-"Good code tells a story; I’m just learning to write mine." ✍
+  Rant: Who knew coming up with project names can be quite a headache 🤯
 </div>  
 
 ---
